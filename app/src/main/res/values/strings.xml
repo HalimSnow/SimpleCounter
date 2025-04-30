@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SimpleCounterReal</string>
+    <string name="CounterButton">Add 1</string>
+    <string name="CounterNumber">0</string>
+    <string name="upgradeButton">Upgrade to Add 2</string>
+    <string name="UpgradeToAdd">Upgrade to Add 2</string>
+    <string name="Button_1">+</string>
+</resources>
