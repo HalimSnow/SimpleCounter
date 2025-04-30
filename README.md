@@ -1,4 +1,4 @@
-# Android Prework - *HelloWorldReal*
+# Android Lab 1 - *SimpleCounterReal*
 
 Submitted by: **Abdul-Halim Tiberino**
 
